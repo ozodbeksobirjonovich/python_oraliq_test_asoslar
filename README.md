@@ -128,13 +128,13 @@ except:
 
 ## MASALALAR (10 TA - HAR BIRIGA 5 BALLDAN BERILADI)
 
-1. List va for sikli bilan ishlash masalasi:
+### 1. List va for sikli bilan ishlash masalasi:
 - Foydalanuvchidan nechta son kiritmoqchi ekanligini so'rang
 - Kiritilgan sonlarni ro'yxatga saqlang
 - Ro'yxatning juft indeksli (0,2,4...) elementlarini ekranga chiqaring
 Masalan: [10,20,30,40,50] → 10,30,50 ekranga chiqadi
 
-2. Dictionary bilan ishlash masalasi:
+### 2. Dictionary bilan ishlash masalasi:
 - Talabalar haqida ma'lumot saqlovchi lug'at yarating:
   - Har bir talaba uchun: 
     - Ismi
@@ -144,7 +144,7 @@ Masalan: [10,20,30,40,50] → 10,30,50 ekranga chiqadi
   - Shu talabaning barcha ma'lumotlari ekranga chiqsin
   - Agar bunday talaba bo'lmasa, xabar berilsin
 
-3. OOP asoslari masalasi:
+### 3. OOP asoslari masalasi:
 - "Kitob" klassini yarating quyidagi xususiyatlar bilan:
   - Kitob nomi
   - Muallifi
@@ -153,28 +153,28 @@ Masalan: [10,20,30,40,50] → 10,30,50 ekranga chiqadi
 - Shu klassdan foydalanib 3 ta turli kitob yarating
 - Har bir kitob haqidagi ma'lumotni ekranga chiqaring
 
-4. While sikli masalasi:
+### 4. While sikli masalasi:
 - Foydalanuvchidan istalgan son kiriting
 - While sikli yordamida:
   - Sonni raqamlarga ajrating
   - Raqamlarni yig'indisini hisoblang
 Masalan: 123 → 1+2+3=6
 
-5. Fayllar bilan ishlash masalasi:
+### 5. Fayllar bilan ishlash masalasi:
 - Mavjud matn faylini o'qing
 - Matndagi so'zlarni ajrating
 - Har bir so'z uzunligini tekshiring
 - Eng uzun so'zni toping va ekranga chiqaring
 - Necha harfdan iborat ekanligini ko'rsating
 
-6. String metodlari masalasi:
+### 6. String metodlari masalasi:
 - Foydalanuvchidan gap kiriting
 - Unli harflar ro'yxatini tuzing (a,e,i,o,u)
 - Kiritilgan gapdagi har bir harfni tekshiring
 - Unli harflar sonini hisoblang
 - Natijani ekranga chiqaring
 
-7. Vorislik masalasi:
+### 7. Vorislik masalasi:
 - "Transport" klassini yarating:
   - Umumiy xususiyatlar: tezlik, rang, ishlab chiqarilgan yil
 - "Avtomobil" klassini yarating (Transport klassidan voris olsin):
@@ -182,7 +182,7 @@ Masalan: 123 → 1+2+3=6
 - Har ikkala klassda ma'lumot beruvchi metodlar yarating
 - Klasslardan obyektlar yarating va metodlarni ishlating
 
-8. Funksiyalar masalasi:
+### 8. Funksiyalar masalasi:
 - Mukammal son funksiyasini yarating
 - Funksiya parametr sifatida son qabul qilsin
 - Son bo'luvchilarini toping (1 dan songacha bo'lgan)
@@ -190,13 +190,13 @@ Masalan: 123 → 1+2+3=6
 - Yig'indi songa teng bo'lsa True, aks holda False qaytarsin
 Masalan: 6 soni mukammal son (1+2+3=6)
 
-9. Set to'plami masalasi:
+### 9. Set to'plami masalasi:
 - Ikkita to'plam yarating
 - Ularning kesishmasini toping
 - Ya'ni ikkala to'plamda ham mavjud elementlarni aniqlang
 Masalan: {1,2,3} va {3,4,5} → {3}
 
-10. Math moduli masalasi:
+### 10. Math moduli masalasi:
 - Foydalanuvchidan son kiriting
 - Math moduli yordamida:
   - Sonning faktorialini hisoblang
