@@ -1,0 +1,1 @@
+# python_oraliq_test_asoslar
